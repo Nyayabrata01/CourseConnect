@@ -1,4 +1,3 @@
-## 📸 Screenshot
 
 ![CourseConnect Screenshot](public/Screenshot%202025-05-06%20110059.png)
 
