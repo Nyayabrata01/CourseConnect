@@ -1,17 +1,33 @@
+## 📸 Screenshot
+
+![CourseConnect Screenshot](public/Screenshot%202025-05-06%20110059.png)
 
 
-## Getting Started
+# CourseConnect 🎓
 
-First, run the development server:
+CourseConnect is a centralized courseware platform developed by Centurion University. It allows students and faculty to access course-related data, view academic results, and manage course information efficiently.
+
+## 🚀 Features
+
+- 📚 View detailed course information
+- 📊 Access academic results and grades
+- 🧑‍🏫 Instructor and student-specific dashboards
+- 🔐 Secure login and role-based access
+- 🌐 Easy navigation and responsive UI
+
+## 🏗️ Tech Stack
+
+- **Frontend:** React.js / HTML / CSS / JavaScript
+- **Backend:** Node.js / Express.js
+- **Database:** MongoDB
+- **Authentication:** JWT / OAuth (optional)
+- **Deployment:** (e.g., Vercel / Netlify / Heroku)
+
+## 📦 Installation
+
+Clone the repository:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+git clone https://github.com/Nyayabrata01/CourseConnect.git
+cd CourseConnect
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
